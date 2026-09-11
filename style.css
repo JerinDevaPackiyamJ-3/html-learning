@@ -1,0 +1,12 @@
+ body{
+            background-color:aliceblue;
+            color:black
+        }
+        h1{
+            text-align:center;
+            color:blue;
+        }
+        h2{
+            text-align:left;
+            color:purple;
+        }
